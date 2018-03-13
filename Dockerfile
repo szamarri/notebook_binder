@@ -19,7 +19,7 @@ RUN cd IJava/ \
 
 FROM openjdk:9.0.1-11-jdk
 
-ENV NB_USER jovyan
+ENV NB_USER szamarri
 ENV NB_UID 1000
 ENV HOME /home/$NB_USER
 
